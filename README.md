@@ -4,4 +4,4 @@ Simple customer counter using HTML, CSS, and Javascript Functions. You can chang
 
 You can also visit website for live viewing
 
-https://codepen.io/abarojohncleo/pen/zYRbdye
+https://codepen.io/abarojohncleo/full/zYRbdye
